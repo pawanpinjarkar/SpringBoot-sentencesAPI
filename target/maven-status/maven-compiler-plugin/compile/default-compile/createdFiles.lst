@@ -1,0 +1,5 @@
+controller/Application.class
+model/InputResource.class
+controller/SentenceController.class
+model/FirstQuestionResponse.class
+model/SecondQuestionResponse.class
